@@ -1,0 +1,20 @@
+
+/* Rule winning: #content is always winner, next is div>p and so on. * selector is weak/0 points.
+If there is a second param like in "p" - font size, font-size is working good with #content cell, because
+there arent other font-size values.*/
+div > p {
+    background-color: royalblue;
+}
+
+div {
+    background-color: red;
+}
+
+p {
+    background-color: green;
+    font-size: large;
+}
+
+#content {
+    background-color: black;
+}

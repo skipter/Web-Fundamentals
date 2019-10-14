@@ -1,0 +1,33 @@
+body {
+    background-color: aquamarine;
+    text-align: center;
+    background-image: url("html-color-codes-color-tutorials-hero-00e10b1f.jpg");
+    background-size: 100%;
+}
+
+h1, h2 {
+    font-size: 35px;
+    /*text-align: center;*/
+}
+
+div {
+    background-color: bisque;
+}
+
+div > p {
+    background-color: chartreuse;
+}
+
+.GreenText {
+    color: green;
+    text-decoration: underline;
+}
+
+#testCase {
+    text-align: left;
+    /*text-shadow: 3px 2px red;*/
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 40%;
+    margin-left: 190px;
+}

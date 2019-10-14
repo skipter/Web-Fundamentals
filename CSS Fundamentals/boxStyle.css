@@ -1,0 +1,23 @@
+
+/*Not to have white spaces in browser* */
+* 
+{
+padding: 0px;
+margin: 0px;
+}
+
+ul {
+    background-color: greenyellow;
+    list-style: none; /*Remove dots from the list.*/
+    padding: 10px;
+    margin: 25px;
+}
+
+ul li  { /*ul li:nth-child(3) / li:nth-last-child(1) */
+    background-color: hotpink;
+    padding: 10px;
+    margin: 25px;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+}
