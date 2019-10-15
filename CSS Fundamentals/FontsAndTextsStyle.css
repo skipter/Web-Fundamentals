@@ -1,0 +1,36 @@
+body {
+background: burlywood;
+font-family: sans-serif;
+}
+
+h1 {
+font-family: 'Times New Roman', Times, serif;
+font-size: 1.2em;
+text-align: center;
+/*letter-spacing: 0.5em;*/
+/*word-spacing: 0.5em;*/
+/*text-decoration: underline line-through;*/
+}
+
+.file {
+    font-family: monospace;
+    font-size: 0.9em;
+}
+
+ol {
+    font-family: italic;
+    font-size: 0.9em;
+}
+
+.content {
+    background:#eeeecc;
+    padding: 7px;
+    line-height: 1.2em;
+    /*text-indent: 1em;*/
+    
+}
+
+.footer {
+    font-weight: bold;
+    font-size: 0.8;
+}

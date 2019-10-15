@@ -1,0 +1,22 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+#header {
+    text-align: center;
+    background-color: red;
+    height: 100px;
+}
+
+#authorinfo {
+    margin-left: 605px;
+}
+
+#content {
+    background-color: yellow;
+    position: absolute;
+    top: 115px;
+    left: 5px;
+    width: 600px;
+}
